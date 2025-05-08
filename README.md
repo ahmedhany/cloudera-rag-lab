@@ -1,2 +1,2 @@
 # cloudera-rag-lab
-Welcome to Cloudera Hands-On-Labs for Cloudera RAG Studio.
+Welcome to Cloudera Hands-On-Labs for Cloudera RAG Studio. Please check sample documents you can upload to Cloudera Rag Studio to discuss their contents.
